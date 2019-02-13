@@ -2,9 +2,11 @@ class KNN:
     def __init__(self, neighbors):
         self.neighbors = neighbors
 
-    def fit():
+    def fit(self):
         return "Not implemented"
-    def predict():
+
+    def predict(self):
         return "Not Implemented"
-    def score(X, y):
+
+    def score(self, X, y):
         return "Not Implemented"
